@@ -29,7 +29,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nik6511&layout=compact&theme=vision-friendly-dark&hide=Hack)](https://github.com/anuraghazra/github-readme-stats) 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nik6511&" alt="nik6511" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nik6511&theme=vision-friendly-dark" alt="nik6511" /></p>
 
 ![Nik's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nik6511&theme=vision-friendly-dark&show_icons=true)
 
