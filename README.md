@@ -1,7 +1,7 @@
 ![MasterHead](https://media1.giphy.com/headers/GitHub/w8ZJLtJbmuph.gif)
 <h1 align="center">Hi 👋, I'm Nik</h1>
 <h3 align="center">A computer science post-graduate student!</h3>
-<img align="right" alt="Coding"  width="440" src="https://raw.githubusercontent.com/punitkmryh/punitkmryh/master/Developer.gif">
+<img align="right" alt="Coding"  width="430" src="https://raw.githubusercontent.com/punitkmryh/punitkmryh/master/Developer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nik6511&label=Profile%20views&color=0e75b6&style=flat" alt="nik6511" /> </p>
 
