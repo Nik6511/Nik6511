@@ -1,4 +1,4 @@
-![MasterHead](https://media1.giphy.com/headers/GitHub/w8ZJLtJbmuph.gif)
+![MasterHead](https://github.com/Nik6511/Nik6511/blob/main/banner.gif)
 <h1 align="center">Hello there!👋, Nik here</h1>
 <h3 align="center">A computer science post-graduate student!</h3>
 <img align="right" alt="Coding"  width="430" src="https://github.com/Nik6511/Nik6511/blob/main/Developer.gif">
