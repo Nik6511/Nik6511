@@ -1,5 +1,5 @@
 ![MasterHead](https://media1.giphy.com/headers/GitHub/w8ZJLtJbmuph.gif)
-<h1 align="center">Hi 👋, I'm Nik</h1>
+<h1 align="center">Hello there!👋, Nik here</h1>
 <h3 align="center">A computer science post-graduate student!</h3>
 <img align="right" alt="Coding"  width="430" src="https://raw.githubusercontent.com/punitkmryh/punitkmryh/master/Developer.gif">
 
