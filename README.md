@@ -6,20 +6,9 @@
 <a href="LICENSE">
          <img alt="LICENSE" src="https://img.shields.io/badge/License-AGPL_v3-blue.svg">
       </a></p>
-<h3 align="left">Educational Qualifications:</h3>
-- 🎓Sikkim Manipal Institute of Technology (2020-2022)<br>
-   M.Tech : Computer Science<br>
-- 🎓Sambhram Institute of Technology (2016-2020)<br>
-   B.E. : Computer Science<br>
-- 🎓 Rockvale Academy (2014-2016)<br>
-   12th : Science<br>
-- 🎓 Springdale Academy (2000-2014)<br>
-   10th : Science<br>
-   
+
 
 - 🌱 I’m currently learning **Everything**
-
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nik6511&layout=compact&theme=vision-friendly-dark&hide=Hack" alt="nik6511" /></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -39,10 +28,13 @@
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
  
    </p>
- 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nik6511&layout=compact&theme=vision-friendly-dark&hide=Hack)](https://github.com/anuraghazra/github-readme-stats) 
 
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=nik6511&theme=vision-friendly-dark" alt="nik6511" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nik6511&theme=vision-friendly-dark" alt="nik6511" /></p>
 
 ![Nik's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nik6511&theme=vision-friendly-dark&show_icons=true)
+
+
+
 
