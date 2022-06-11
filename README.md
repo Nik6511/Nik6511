@@ -2,8 +2,8 @@
 <h1 align="center">Hello there!👋, Nik here</h1>
 <h3 align="center">A computer science post-graduate student!</h3>
 <img align="right" alt="Coding"  width="430" src="https://github.com/Nik6511/Nik6511/blob/main/Developer.gif">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nik6511&label=Profile%20views&color=0e75b6&style=flat" alt="nik6511" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nik6511&label=Profile%20views&color=0e75b6&style=flat" alt="nik6511" />
+<img src="https://img.shields.io/badge/License-AGPL_v3-blue.svg"alt="https://www.gnu.org/licenses/agpl-3.0)" /></p>
 
 
 - 🌱 I’m currently learning **Everything**
