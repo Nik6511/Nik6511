@@ -10,7 +10,8 @@
 
 - 🌱 I’m currently learning **Everything**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="nikhilbasur" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/nikhilbasur?trk=profile-badge">Nikhil Basur</a></div>
+              </h3>
 <p align="left">
 <a href="https://linkedin.com/in/nikhil-basur-503093170" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nikhil-basur-503093170" height="30" width="40" /></a>
 <a href="https://instagram.com/pyro._.o" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/pyro._.o" height="30" width="40" /></a>
